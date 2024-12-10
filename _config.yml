@@ -16,7 +16,11 @@ lang: jp # the language of your site (for example: en, fr, cn, ru, etc.)
 icon: favicon.png # ⚛️ # the emoji used as the favicon (alternatively, provide image name in /assets/img/)
 
 url: https://dombegi.github.io # the base hostname & protocol for your site
+# for debug, empty baseurl
+# baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+
 baseurl: px-psi # the subpath of your site, e.g. /blog/. Leave blank for root
+
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
 back_to_top: true # set to false to disable the back to top button
@@ -29,7 +33,7 @@ back_to_top: true # set to false to disable the back to top button
 repo_theme_light: default # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_theme_dark: dark # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
 repo_trophies:
-  enabled: true
+  enabled: false
   theme_light: flat # https://github.com/ryo-ma/github-profile-trophy
   theme_dark: gitdimmed # https://github.com/ryo-ma/github-profile-trophy
 
@@ -79,7 +83,7 @@ flickr_id: # your flickr id
 github_username: # your GitHub user name
 gitlab_username: # your GitLab user name
 ieee_id: # your ieeexplore.ieee.org/author/id
-inspirehep_id: 1010907 # Inspire HEP author ID
+inspirehep_id: # Inspire HEP author ID
 instagram_id: # your instagram id
 kaggle_id: # your kaggle id
 keybase_username: # your keybase user name
@@ -196,6 +200,9 @@ collections:
   projects:
     output: true
     permalink: /:collection/:title/
+  teams:
+    output: true
+    permalink: /:collection/:title/
 
 announcements:
   enabled: true
@@ -228,23 +235,17 @@ kramdown:
 include: ["_pages"]
 exclude:
   - bin/
-  - CONTRIBUTING.md
-  - CUSTOMIZE.md
   - Dockerfile
   - docker-compose.yml
   - docker-compose-slim.yml
-  - FAQ.md
   - Gemfile
   - Gemfile.lock
-  - INSTALL.md
   - LICENSE
   - lighthouse_results/
   - package.json
   - package-lock.json
   - _pages/about_einstein.md
   - purgecss.config.js
-  - README.md
-  - readme_preview/
   - vendor
 keep_files:
   - CNAME
