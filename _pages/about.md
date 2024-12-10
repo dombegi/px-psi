@@ -6,7 +6,7 @@ subtitle: <a href='https://www.prc.tsukuba.ac.jp/ja/'>筑波大学プラズマ�
 
 profile:
   align: right
-  image: 2024px-psi.jpg
+  image: 2024px-psi.png
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>2024年11月22日、アケボノスギ通りにて</p>
