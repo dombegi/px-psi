@@ -268,7 +268,6 @@ plugins:
   - jekyll-toc
   - jekyll-twitter-plugin
   - jemoji
-  - jekyll-material-icon-tag
 
 # Sitemap settings
 defaults:
