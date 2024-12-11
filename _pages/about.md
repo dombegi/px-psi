@@ -1,6 +1,6 @@
 ---
 layout: about
-title: <i class="material-icons">home</i>
+title: home
 permalink: /
 subtitle: <a href='https://www.prc.tsukuba.ac.jp/ja/'>筑波大学プラズマ研究センター</a> PX-PSIグループです。
 
