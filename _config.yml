@@ -17,9 +17,9 @@ icon: favicon.png # ⚛️ # the emoji used as the favicon (alternatively, provi
 
 url: https://dombegi.github.io # the base hostname & protocol for your site
 # for debug, empty baseurl
-# baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 
-baseurl: px-psi # the subpath of your site, e.g. /blog/. Leave blank for root
+# baseurl: px-psi # the subpath of your site, e.g. /blog/. Leave blank for root
 
 last_updated: true # set to true if you want to display last updated in the footer
 impressum_path: # set to path to include impressum link in the footer, use the same path as permalink in a page, helps to conform with EU GDPR
@@ -204,10 +204,10 @@ collections:
     output: true
     permalink: /:collection/:title/
 
-announcements:
+announcements: # news
   enabled: true
   scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 5 # leave blank to include all the news in the `_news` folder
+  limit: 7 # leave blank to include all the news in the `_news` folder
 
 latest_posts:
   enabled: false
@@ -489,7 +489,7 @@ third_party_libraries:
     version: "5.5.0"
   google_fonts:
     url:
-      fonts: "https://fonts.googleapis.com/css?family=Roboto:300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
+      fonts: "https://fonts.googleapis.com/css?family=Noto+Sans+JP:wght@100..900|Roboto:100,300,400,500,700|Roboto+Slab:100,300,400,500,700|Material+Icons&display=swap"
   highlightjs:
     integrity:
       css:
