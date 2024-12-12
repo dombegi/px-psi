@@ -33,9 +33,12 @@ PX-PSIグループでは核融合炉における周辺プラズマと炉壁の�
 プラズマ照射による材料の表面・内部変化に興味がある方はぜひPX-PSIグループに合流してください!
 
 ---
+
 PX-PSIグループの研究は筑波大学プラズマ研究センターの支援はもちろん、日本学術振興会科研費、核融合科学研究所共同研究、PWI協定及び日米協力事業、名古屋大学低温プラズマ科学研究センター、自然科学研究機構などの助成を受けて行っています。また、マテリアル先端リサーチインフラを利用しています。
 
-#### Partners
+<br/>
+
+#### **Partners**
 <div class="row gx-1">
     <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
       <a href="https://www.differ.nl/">
@@ -77,5 +80,14 @@ PX-PSIグループの研究は筑波大学プラズマ研究センターの支�
         {% include figure.liquid loading="eager" path="assets/img/logo/nifs2.png" class="img-fluid rounded z-depth-1" %}
       </a>
     </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
+      <a href="https://www.gpi.ru/">
+        {% include figure.liquid loading="eager" path="assets/img/logo/prokhorov.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
 </div>
+<br/>
+
 ---
+
+<br/>
