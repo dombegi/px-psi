@@ -9,7 +9,6 @@ profile:
   image: 2024px-psi.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>集合写真</p>
     <p>あけぼのすぎ通り,筑波大学</p>
     <p>2024.11.22</p>
 
@@ -34,11 +33,49 @@ PX-PSIグループでは核融合炉における周辺プラズマと炉壁の�
 プラズマ照射による材料の表面・内部変化に興味がある方はぜひPX-PSIグループに合流してください!
 
 ---
+PX-PSIグループの研究は筑波大学プラズマ研究センターの支援はもちろん、日本学術振興会科研費、核融合科学研究所共同研究、PWI協定及び日米協力事業、名古屋大学低温プラズマ科学研究センター、自然科学研究機構などの助成を受けて行っています。また、マテリアル先端リサーチインフラを利用しています。
+
 #### Partners
-[<img src="../assets/img/differ.jpg" alt="differ" height="30px">](https://www.differ.nl/) 
-[<img src="../assets/img/ipp.jpg" alt="ipp" height="40px">](https://www.ipp.mpg.de/) 
-[<img src="../assets/img/utokyo.png" alt="ipp" height="30px">](https://www.ppl.k.u-tokyo.ac.jp/) 
-[<img src="../assets/img/meidai.png" alt="ipp" height="30px">](https://www.nuee.nagoya-u.ac.jp/labs/plaene/j-index.html) 
-[<img src="../assets/img/nifs.png" alt="ipp" height="30px">](https://www.nifs.ac.jp/) 
-[<img src="../assets/img/shimane.png" alt="ipp" height="30px">](https://www.phys.shimane-u.ac.jp/miyamoto_lab/index.html) 
-[<img src="../assets/img/ciemat.png" alt="ipp" height="40px">]()
+<div class="row gx-1">
+    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
+      <a href="https://www.differ.nl/">
+        {% include figure.liquid loading="eager" path="assets/img/logo/differ.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
+      <a href="https://www.ipp.mpg.de/">
+        {% include figure.liquid loading="eager" path="assets/img/logo/ipp2.jpg" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
+      <a href="https://www.ppl.k.u-tokyo.ac.jp/">
+        {% include figure.liquid loading="eager" path="assets/img/logo/meidai2.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
+      <a href="https://www.nuee.nagoya-u.ac.jp/labs/plaene/j-index.html">
+        {% include figure.liquid loading="eager" path="assets/img/logo/utokyo2.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
+      <a href="https://cer.ucsd.edu/">
+        {% include figure.liquid loading="eager" path="assets/img/logo/ucsd.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
+      <a href="https://www.phys.shimane-u.ac.jp/miyamoto_lab/index.html">
+        {% include figure.liquid loading="eager" path="assets/img/logo/shimane2.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
+      <a href="https://www.fusion.ciemat.es/home/home/">
+        {% include figure.liquid loading="eager" path="assets/img/logo/ciemat2.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
+      <a href="https://www.nifs.ac.jp/">
+        {% include figure.liquid loading="eager" path="assets/img/logo/nifs2.png" class="img-fluid rounded z-depth-1" %}
+      </a>
+    </div>
+</div>
+---

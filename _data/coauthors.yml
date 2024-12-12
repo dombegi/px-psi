@@ -1,34 +1,45 @@
-"adams":
-  - firstname: ["Edwin", "E.", "E. P.", "Edwin Plimpton"]
-    url: https://en.wikipedia.org/wiki/Edwin_Plimpton_Adams
+"Sakamoto":
+  - firstname: ["Mizuki", "M.", "M"]
+    url:
+  - firstname: ["Maria", "M.", "M"]
+    url:
 
-"podolsky":
-  - firstname: ["Boris", "B.", "B. Y.", "Boris Yakovlevich"]
-    url: https://en.wikipedia.org/wiki/Boris_Podolsky
+"Saito":
+  - firstname: ["kota", "S.", "S",]
+    url: 
 
-"rosen":
-  - firstname: ["Nathan", "N."]
-    url: https://en.wikipedia.org/wiki/Nathan_Rosen
+"Yoshida":
+  - firstname: ["Haru", "H.", "H"]
+    url: 
 
-"bach":
-  - firstname: ["Johann Sebastian", "J. S."]
-    url: https://en.wikipedia.org/wiki/Johann_Sebastian_Bach
+"Sasaki":
+  - firstname: ["Ryo", "R.", "R"]
+    url: 
 
-  - firstname: ["Carl Philipp Emanuel", "C. P. E."]
-    url: https://en.wikipedia.org/wiki/Carl_Philipp_Emanuel_Bach
+"Murakami":
+  - firstname: ["Sou", "S.", "S"]
+    url: 
 
-"przibram":
-  - firstname: ["Karl"]
-    url: https://link.springer.com/article/10.1007/s00016-019-00242-z
+"Onoda":
+  - firstname: ["kazutaka", "K.", "K"]
+    url: 
 
-"schrodinger":
-  - firstname: ["Erwin"]
-    url: https://en.wikipedia.org/wiki/Erwin_Schr%C3%B6dinger
+"Kida":
+  - firstname: ["Hana", "H.", "H"]
+    url: 
 
-"lorentz":
-  - firstname: ["Hendrik Antoon"]
-    url: https://en.wikipedia.org/wiki/Hendrik_Lorentz
+"Kataniwa":
+  - firstname: ["Aoi", "A.", "A"]
+    url: 
 
-"planck":
-  - firstname: ["Max"]
-    url: https://en.wikipedia.org/wiki/Max_Planck
+"Okugi":
+  - firstname: ["Takuto", "T.", "T"]
+    url: 
+
+"Hirayanagi":
+  - firstname: ["Yudai", "Y.", "Y"]
+    url: 
+
+"Numata":
+  - firstname: ["Yukiya", "Y.", "Y"]
+    url: 

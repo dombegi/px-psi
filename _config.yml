@@ -17,7 +17,7 @@ icon: favicon.png # ⚛️ # the emoji used as the favicon (alternatively, provi
 
 url: https://dombegi.github.io # the base hostname & protocol for your site
 # for debug, empty baseurl
-#baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
+# baseurl: # the subpath of your site, e.g. /blog/. Leave blank for root
 baseurl: px-psi # the subpath of your site, e.g. /blog/. Leave blank for root
 
 last_updated: true # set to true if you want to display last updated in the footer
@@ -311,8 +311,8 @@ display_categories: ["external-services"] # these categories will be displayed o
 # -----------------------------------------------------------------------------
 
 scholar:
-  last_name: [Einstein]
-  first_name: [Albert, A.]
+  last_name: [Hwangbo]
+  first_name: [Dogyun, D., D]
 
   style: apa
   locale: en
