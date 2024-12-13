@@ -1,14 +1,17 @@
 ---
 layout: post
-title: PSI-26 conference
+title: ファンボ、齋藤君(D1)がPSI-26 conferenceに参加しました。
 date: 2024-05-17 
 inline: false
-related_posts: true
+related_posts: false
 ---
 
 <!-- 줄바꿈: 문장 뒤에 스페이스 두번 -->
 <!-- 문단 바꿈: 엔터 두번 -->
 
-The PSI-26 conference was held in Marsaille, France on 12-17 May 2024. I gave a poster presentation about the in-vessel arc traces investigation of W7-X after OP2.1, in collaboration with IPP Greifswald.
+ファンボと齋藤君(D1)が26th International Conference on Plasma Surface Interaction in Controlled Fusion Devices (PSI-26)に参加し、ポスター発表を行いました。
+今回はフランスのマルセイユで2024/5/12-5/17に開催されました。
 
-Marsaille was very nice, and I also participated in the PSI football match, which has been 5 years since the last match was in 2018 in Princeton, USA.
+
+齋藤君はSTEM-EELS測定によりタングステンナノ構造中のヘリウムバブルに重水素がトラップされる姿を直接観測した結果を、  
+ファンボはIPP Greifswaldとの共同研究でW7-Xステラレータ内壁のアーク痕のグローバル分布計測の結果を紹介しました。
