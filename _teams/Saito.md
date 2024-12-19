@@ -3,7 +3,6 @@ layout: page
 title: 齋藤 康太, SAITO Kota
 description: a project that redirects to another website
 img: assets/img/7.jpg
-redirect: https://unsplash.com
 importance: 3
 category: 博士学生
 ---

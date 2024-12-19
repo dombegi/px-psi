@@ -1,12 +1,12 @@
 "Sakamoto":
   - firstname: ["Mizuki", "M.", "M"]
-    url:
-  - firstname: ["Maria", "M.", "M"]
+    url: https://dombegi.github.io/px-psi/teams/Sakamoto/
+  - firstname: ["Maria"]
     url:
 
 "Saito":
   - firstname: ["kota", "S.", "S",]
-    url: 
+    url: /teams/Saito/
 
 "Yoshida":
   - firstname: ["Haru", "H.", "H"]
@@ -43,3 +43,8 @@
 "Numata":
   - firstname: ["Yukiya", "Y.", "Y"]
     url: 
+
+
+"Kajita":
+  - firstname: ["Shin", "S.", "S"]
+    url: https://www.ppl.k.u-tokyo.ac.jp/
