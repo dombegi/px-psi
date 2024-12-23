@@ -91,7 +91,8 @@ d-article {
       minmax(8px, 1fr) [toc] auto
       minmax(8px, 1fr) [toc-line] 1px
       minmax(32px, 2fr);
-
+    /*position fix try*/
+    position: sticky;
     nav {
       grid-column: toc;
       a {
