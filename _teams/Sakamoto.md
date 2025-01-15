@@ -1,11 +1,12 @@
 ---
 layout: page
 title: 坂本 瑞樹, SAKAMOTO Mizuki
-description: with background image
-img: assets/img/12.jpg
+description: プラズマ研究センター長、物理学域教授
+img: https://grad.pas.tsukuba.ac.jp/content/uploads/sites/8/2023/06/6d8a2deaf077e680d3ee247d7ebd3380-300x271.jpg
 importance: 1
 category: 教員
 related_publications: true
+redirect: https://www.prc.tsukuba.ac.jp/~sakamoto/
 ---
 
 Every project has a beautiful feature showcase page.

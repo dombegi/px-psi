@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 permalink: /team2/
 title: team2
 description: 現在のメンバーを紹介します。
@@ -7,6 +7,13 @@ nav: false
 nav_order: 3
 display_categories: [教員, 博士学生, 修士学生, 学部生, 同窓]
 horizontal: true
+toc:
+  sidebar: left
+  # - name: 教員
+  # - name: 博士学生
+  # - name: 修士学生
+  # - name: 学部生
+  # - name: 同窓
 ---
 
 

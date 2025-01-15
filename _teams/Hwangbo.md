@@ -2,10 +2,11 @@
 layout: page
 title: 皇甫 度均, HWANGBO Dogyun 
 description: a project with a background image and giscus comments
-img: assets/img/3.jpg
+img: assets/img/teams/dogyun.jpg
 importance: 2
 category: 教員
 giscus_comments: true
+redirect: https://dombegi.github.io/
 ---
 
 Every project has a beautiful feature showcase page.

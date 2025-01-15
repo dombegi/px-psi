@@ -1,12 +1,35 @@
 ---
-layout: distill
+layout: default
 title: Alumni
-description: another project with an image 🎉
+description: 卒業した過去のメンバー
 img: 
 importance: 4
 category: 同窓
+toc:
+    sidebar: left
+  #- name: 2023年度卒業
+  #- name: 2022年度卒業
+  #- name: 2021年度卒業
+  #- name: 2020年度卒業
+  #- name: 2019年度卒業
 ---
-## test font
+## 2023年度卒業
+
+
+## 2022年度卒業
+M2 楠本、高津
+
+## 2021年度卒業
+M2 堺、折笠  
+B4 新田
+
+## 2020年度卒業
+M2　竹田, 鈴木  
+B4　益子
+
+## 2019年度卒業
+B4　多田, 萱野
+
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
 Make your photos 1/3, 2/3, or full width.
