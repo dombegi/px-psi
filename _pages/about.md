@@ -34,54 +34,16 @@ PX-PSIの'PSI'は**P**lasma--**S**urface--**I**nteractionの略です。本グ�
 
 <br/><br/><br/>
 
-#### **Partners**
-<div class="row gx-1">
-    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
-      <a href="https://www.differ.nl/">
-        {% include figure.liquid loading="eager" path="assets/img/logo/differ.png" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
-      <a href="https://www.ipp.mpg.de/">
-        {% include figure.liquid loading="eager" path="assets/img/logo/ipp2.jpg" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
-      <a href="https://www.ppl.k.u-tokyo.ac.jp/">
-        {% include figure.liquid loading="eager" path="assets/img/logo/meidai2.png" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
-      <a href="https://www.nuee.nagoya-u.ac.jp/labs/plaene/j-index.html">
-        {% include figure.liquid loading="eager" path="assets/img/logo/utokyo2.png" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
-      <a href="https://cer.ucsd.edu/">
-        {% include figure.liquid loading="eager" path="assets/img/logo/ucsd.png" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
-      <a href="https://www.phys.shimane-u.ac.jp/miyamoto_lab/index.html">
-        {% include figure.liquid loading="eager" path="assets/img/logo/shimane2.png" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
-      <a href="https://www.fusion.ciemat.es/home/home/">
-        {% include figure.liquid loading="eager" path="assets/img/logo/ciemat2.png" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
-      <a href="https://www.nifs.ac.jp/">
-        {% include figure.liquid loading="eager" path="assets/img/logo/nifs2.png" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-    <div class="col-lg-3 col-md-3 col-sm-4 col-6 mt-md-0">
-      <a href="https://www.gpi.ru/">
-        {% include figure.liquid loading="eager" path="assets/img/logo/prokhorov.png" class="img-fluid rounded z-depth-1" %}
-      </a>
-    </div>
-</div>
+#### **Collaborators**
+[DIFFER, The Netherlands](https://www.differ.nl/)
+[Max-Planck Institute for Plasma Physics Greifswald, Germany](https://www.ipp.mpg.de/)
+[University of Tokyo](https://www.ppl.k.u-tokyo.ac.jp/)
+[Nagoya University](https://www.nuee.nagoya-u.ac.jp/labs/plaene/j-index.html)     
+[Center for Energy Research, UC San Diego](https://cer.ucsd.edu/)
+[Miyamoto Lab., Shimane University](https://www.phys.shimane-u.ac.jp/miyamoto_lab/index.html)
+[CIEMAT, Spain](https://www.fusion.ciemat.es/home/home/)      
+[NIFS](https://www.nifs.ac.jp/)
+[Prokhorov General Physics Institute, Russia](https://www.gpi.ru/)
 <br/>
 
 ---
