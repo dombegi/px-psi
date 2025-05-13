@@ -2,32 +2,36 @@
 layout: default
 title: Alumni
 description: 卒業した過去のメンバー
-img: 
+img:
 importance: 4
 category: 同窓
 toc:
-    sidebar: left
+  sidebar: left
   #- name: 2023年度卒業
   #- name: 2022年度卒業
   #- name: 2021年度卒業
   #- name: 2020年度卒業
   #- name: 2019年度卒業
 ---
+
 ## 2023年度卒業
 
-
 ## 2022年度卒業
+
 M2 楠本、高津
 
 ## 2021年度卒業
+
 M2 堺、折笠  
 B4 新田
 
 ## 2020年度卒業
+
 M2　竹田, 鈴木  
 B4　益子
 
 ## 2019年度卒業
+
 B4　多田, 萱野
 
 Every project has a beautiful feature showcase page.
