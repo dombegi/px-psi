@@ -16,6 +16,7 @@ news: true # includes a list of news items
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: false # includes social icons at the bottom of the page
 ---
+
 <!-- 줄바꿈: 문장 뒤에 스페이스 두번 -->
 <!-- 문단 바꿈: 엔터 두번 -->
 <!-- <img src="이미지주소" alt="이미지이름" width="500" height="600"> -->
@@ -32,20 +33,16 @@ PX-PSIの'PSI'は**P**lasma--**S**urface--**I**nteractionの略です。本グ�
 
 プラズマ照射による材料の表面・内部変化に興味がある方はぜひPX-PSIグループに合流してください!
 
-<br/><br/><br/>
-
 #### **Collaborators**
+
 [DIFFER, The Netherlands](https://www.differ.nl/)
 [Max-Planck Institute for Plasma Physics Greifswald, Germany](https://www.ipp.mpg.de/)
 [University of Tokyo](https://www.ppl.k.u-tokyo.ac.jp/)
-[Nagoya University](https://www.nuee.nagoya-u.ac.jp/labs/plaene/j-index.html)     
+[Nagoya University](https://www.nuee.nagoya-u.ac.jp/labs/plaene/j-index.html)
 [Center for Energy Research, UC San Diego](https://cer.ucsd.edu/)
 [Miyamoto Lab., Shimane University](https://www.phys.shimane-u.ac.jp/miyamoto_lab/index.html)
-[CIEMAT, Spain](https://www.fusion.ciemat.es/home/home/)      
+[CIEMAT, Spain](https://www.fusion.ciemat.es/home/home/)
 [NIFS](https://www.nifs.ac.jp/)
 [Prokhorov General Physics Institute, Russia](https://www.gpi.ru/)
-<br/>
 
 ---
-
-<br/>
